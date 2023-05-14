@@ -1,2 +1,5 @@
 # Landing Page com HTML e CSS
- Projeto prática com apoio da Rafaella Ballerini
+ Projeto prático com apoio da Rafaella Ballerini
+
+# O que é Landing Page? 
+É uma página inicial de um produto. 
